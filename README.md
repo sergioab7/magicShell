@@ -23,7 +23,7 @@
 ## Running
 
 ```
-git clone ...
+git clone https://github.com/sergioab7/magicShell.git
 cd magicShell/
 python3 magicShell.py
 ```
