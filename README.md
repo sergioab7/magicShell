@@ -10,7 +10,7 @@
 
 ## magicShell
 
-<p> Tired of having to go to pentestmonkey every time you need a reverse? with <b>magicShell</b> your problems are over! with a simple command you can choose the reverse that you choose in a matter of seconds, it also allows you to download the php file quickly</p>
+<p> Tired of having to go to pentestmonkey every time you need a reverse? with <b>magicShell</b> your problems are over! with a simple command you can choose the reverse that you want in a matter of seconds, it also allows you to download the php file quickly</p>
 
 <p align="center">
 <img src="https://gyazo.com/19477b3200cbe9e62ad78a2bf9901b50.png"
